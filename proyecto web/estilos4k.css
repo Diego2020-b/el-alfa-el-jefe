@@ -1,0 +1,42 @@
+body{
+	background:url(4k.PNG) #00DAC4;
+}
+p{
+	padding:10px 550px;
+	text-align:justify;
+	width:400px;
+	line-height:200%;
+	text-align:center;
+	font-size:150%;
+	color:white;
+}
+img{
+	background:#191A9D;
+	padding:15px 600px;
+	margin:20px auto;
+}
+audio{
+	padding:15px 600px;
+	background:#30007cff;
+}
+h1{
+	background:#6200FF;
+	padding:5px 5px;
+	color:white;
+	text-align:center;
+	font-size:100px;
+	margin:30px auto;
+	font-family:arial black;
+}
+a{
+	padding:px 20px;
+	display:block;
+	text-decoration:none;
+	background:#8000FF;
+	text-align:center;
+	font-size:40px;
+	color:white;
+}
+a:hover{
+	background:#FC00FF;
+	color:black;

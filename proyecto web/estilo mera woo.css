@@ -1,0 +1,39 @@
+p{
+	padding:10px 550px;
+	text-align:justify;
+	width:400px;
+	line-height:200%;
+	text-align:center;
+	font-size:150%;
+	color:white;
+}
+img{
+	background:#55FF36;
+	padding:15px 600px;
+	margin:20px auto;
+}
+audio{
+	padding:15px 600px;
+	background:#30007cff;
+}
+h1{
+	background:#26B1D3;
+	padding:5px 5px;
+	color:white;
+	text-align:center;
+	font-size:100px;
+	margin:30px auto;
+	font-family:arial black;
+}
+a{
+	padding:px 20px;
+	display:block;
+	text-decoration:none;
+	background:#8000FF;
+	text-align:center;
+	font-size:40px;
+	color:white;
+}
+a:hover{
+	background:#55FF36;
+	color:black;
